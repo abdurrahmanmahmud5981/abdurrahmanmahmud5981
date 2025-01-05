@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdur Rahman Mahmud
+<h1 align="center"> Hi 👋, I'm Abdur Rahman Mahmud</h1>
 
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
@@ -10,10 +10,12 @@
 
 ### 💻 About Me
 
-- 🌱 Currently learning **MERN Stack**
+- 🚀 Currently learning **MERN Stack**
 - 👀 Passionate about solving real-world problems through code
 - 🔗 Actively looking to collaborate on impactful **Frontend projects**
-- 📚 Continuously sharpening my **Web Development** skills
+- 📖 Continuously sharpening my **Web Development** skills
+- 🌟 Contributed to open-source projects like **Edust** to enhance community learning
+- 🎨 Currently building professional portfolio using **ReactJS**, **Tailwind CSS**, and **Framer Motion**
 
 ---
 
@@ -24,7 +26,7 @@
 - **Frameworks & Libraries**: ReactJS, Bootstrap, Tailwind CSS
 
 #### UI/UX Design
-- Figma
+- 🎨 Figma
 - Adobe Photoshop
 - Adobe Illustrator
 - Blender
@@ -35,14 +37,14 @@
 
 ---
 
-### 📧 Contact Me
+### 📬 Contact Me
 
 - 📧 **Email**: [abdurrahmanmahmud58@gmail.com](mailto:abdurrahmanmahmud58@gmail.com)
-- 📱 **Phone**: [+8801894338454](tel:+8801894338454)
+- 📞 **Phone**: [+8801894338454](tel:+8801894338454)
 
 ---
 
-### 🔗 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
 <a href="https://twitter.com/@abdurra92856121" target="_blank">
@@ -51,9 +53,7 @@
 <a href="https://fb.com/abdurrahmanmahmud" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://dev.to/abdurrahmanmahmud5981" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-</a>
+
 </p>
 
 ---
@@ -72,6 +72,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanmahmud5981&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdurrahmanmahmud5981&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Language Proficiency
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanmahmud5981&layout=compact&theme=radical" alt="Language Chart" />
+</div>
+
+---
+
+### 🎉 Fun Animations
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400" />
+  <p><i>Enjoy the journey of coding with some fun animations!</i></p>
+</div>
+
 ---
 
 ### ☕ Support My Work
@@ -84,6 +105,6 @@
 
 ---
 
-### 🌐 Portfolio
+### 🌍 Portfolio
 
-- 🌍 **Website**: Coming soon with a professional portfolio built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**!
+- Coming soon with a professional portfolio built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**!
